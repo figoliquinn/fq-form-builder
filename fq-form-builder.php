@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: FQ Form Builder
- * Plugin URI: http://figoliquinn.com
+ * Plugin URI: http://figoliquinn.github.io/fq-form-builder/
  * Description: A light-weight form-building tool.
  * Version: 1.0.0
  * Author: Bob Passaro & Tony Figoli
